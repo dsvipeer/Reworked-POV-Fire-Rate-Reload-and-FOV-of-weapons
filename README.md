@@ -5,3 +5,10 @@
 # RELOAD (ALL WEAPONS) 
 
 # AND INCREASED FIRE RATE (IN BOTH COMBAT PISTOL AND PISTOL);
+
+
+# PREVIEW HERE: 
+
+# https://streamable.com/g01rza (PISTOL)
+
+# https://streamable.com/lrq137 (COMBAT_PISTOL)
