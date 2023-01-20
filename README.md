@@ -2,6 +2,6 @@
 
 # ALONG WITH FOV (SOME RIFLES AND PISTOLS);
 
-# RELOAD (ALL WEAPONS AND FIRE RATE (IN BOTH COMBAT PISTOL AND PISTOL);
+# RELOAD (ALL WEAPONS) 
 
-# I reworked the Point of View of COMBAT PISTOL and PISTOL, alongside with realistic reload for ALL RIFLES, SMGs and PISTOLS; Increased fire rate in COMBAT PISTOL and PISTOL and realistic FOV in first person.
+# AND INCREASED FIRE RATE (IN BOTH COMBAT PISTOL AND PISTOL);
