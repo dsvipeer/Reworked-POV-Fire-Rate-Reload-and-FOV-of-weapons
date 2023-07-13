@@ -1,6 +1,6 @@
 ### 📠 Reworked Point of View and Field of View 📠
 
-[![Youtube](https://imgur.com/a/zijdcDu)](https://www.youtube.com/@zVipeer)
+![Captura de Tela (346)](https://github.com/dsvipeer/Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons/assets/112516086/20effc94-78ac-4578-acd5-fd857ee13b1c)(https://www.youtube.com/@zVipeer)
 
 ----
 
