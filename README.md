@@ -1,15 +1,18 @@
-# BIG REWORK OF POV (IN BOTH COMBAT PISTOL AND PISTOL) ALL BY ME;
+### 📠 Reworked Point of View and Field of View 📠
 
-# ALONG WITH FOV (SOME RIFLES AND PISTOLS);
+[![Youtube](https://imgur.com/a/zijdcDu)](https://www.youtube.com/@zVipeer)
 
-# RELOAD (ALL WEAPONS) 
+----
 
-# AND INCREASED FIRE RATE (IN BOTH COMBAT PISTOL AND PISTOL);
+Reworked the weapon placing when holding it in the 3 stages ( Shot W/O aiming | Aiming W/O Zoom | Aiming With Zoom ) 
 
-# INSTALLATION IS SIMPLE, JUST DRAG AND DROP BOTH 2 FILES 
-AND *ensure fov-realistic-reload | *ensure weaponsMETA
+All these 3 stages have been modified in some weapons like: Assault Rifle | Carbine Rifle (MK2 too) | Pistol | Combat Pistol | Heavy Pistol | For Example.
 
-# PREVIEW HERE: 
+I've made some quality of life changes on the previous release, and now there is a lot more weapons included, hope you like it!
+
+
+
+<br />
 
 # https://streamable.com/g01rza (PISTOL)
 
