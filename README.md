@@ -1,6 +1,8 @@
 ### 📠 Reworked Point of View and Field of View 📠
 
-----
+---- # 💾INSTALATION GUIDE💾: 
+
+-Drop both folders into your resources folder and add to your server.cfg "ensure fov-reloadrealista" & "ensure weaponsMETA"
 
 Reworked the weapon placing when holding it in the 3 stages ( Shot W/O aiming | Aiming W/O Zoom | Aiming With Zoom ) 
 
@@ -12,6 +14,4 @@ I've made some quality of life changes on the previous release, and now there is
 
 <br />
 
-# https://streamable.com/g01rza (PISTOL)
-
-# https://streamable.com/lrq137 (COMBAT_PISTOL)
+# PREVIEW: https://www.youtube.com/watch?v=op0ZWlhWarw
