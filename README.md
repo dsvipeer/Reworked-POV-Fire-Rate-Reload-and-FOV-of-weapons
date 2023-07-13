@@ -1,7 +1,5 @@
 ### 📠 Reworked Point of View and Field of View 📠
 
-![Captura de Tela (346)](https://github.com/dsvipeer/Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons/assets/112516086/20effc94-78ac-4578-acd5-fd857ee13b1c)(https://www.youtube.com/@zVipeer)
-
 ----
 
 Reworked the weapon placing when holding it in the 3 stages ( Shot W/O aiming | Aiming W/O Zoom | Aiming With Zoom ) 
